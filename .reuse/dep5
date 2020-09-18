@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: intelligent-innovation-hands-on-guided-lab
-Upstream-Contact: brian.bernard@sap.com
+Upstream-Contact: sharon.om@sap.com
 Source: https://github.com/SAP-samples/intelligent-innovation-hands-on-guided-lab
 Disclaimer: The code in this project may include calls to APIs (“API Calls”) of
  SAP or third-party products or services developed outside of this project
