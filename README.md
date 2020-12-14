@@ -1,5 +1,10 @@
 # SAP Intelligent Innovation Hands-on Guided Lab
 
+![](https://img.shields.io/badge/STATUS-NOT%20CURRENTLY%20MAINTAINED-red.svg?longCache=true&style=flat)
+
+# Important Notice
+This public repository is read-only and no longer maintained. 
+
 ## Description
 This project contains lab material, sample code, and sample solutions to enable the hands-on lab "Streamlining Purchase Order Experience". The lab covers SAP Cloud Platform Process Visibility, workflow service, SAP Conversational AI, and SAP Intelligent Robotic Process Automation. This project is referenced by the lab workbook.
 
